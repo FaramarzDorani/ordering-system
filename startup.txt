@@ -1,0 +1,4 @@
+This file illustrate the project policy.
+
+In this step we are going to develop ordering system project.
+All tasks started from now on.
