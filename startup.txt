@@ -7,6 +7,9 @@ Hello, I changed this file in testing branch mode.
 
 I hope it works fine.
 After this, I'll go stratight to dupla installation works.
+================
+again changed
+================
 
 Thanks all.
 
