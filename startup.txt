@@ -1,4 +1,14 @@
 This file illustrate the project policy.
 
 In this step we are going to develop ordering system project.
+
 All tasks started from now on.
+Hello, I changed this file in testing branch mode.
+
+I hope it works fine.
+After this, I'll go stratight to dupla installation works.
+
+Thanks all.
+
+
+
