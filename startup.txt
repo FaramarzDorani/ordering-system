@@ -1,10 +1,14 @@
 This file illustrate the project policy.
 
 In this step we are going to develop ordering system project.
+
 All tasks started from now on.
 In this section some changes made by hotfix branch.
 
-Now, I know that some conflicts may occur.
-I must fix it.
+--Now, I know that some conflicts may occur.
+I must fix it.----
+BTW, I fixed all conflicts.
+
+
 
 
